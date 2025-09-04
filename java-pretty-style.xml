@@ -1,4 +1,4 @@
-<code_scheme name="JoJo GoogleStyle" version="173">
+<code_scheme name="Pretty" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
   <option name="OTHER_INDENT_OPTIONS">
     <value />
@@ -14,12 +14,12 @@
   </option>
   <option name="IMPORT_LAYOUT_TABLE">
     <value>
-      <package name="" withSubpackages="true" static="false" />
+      <package name="" withSubpackages="true" static="true" />
       <emptyLine />
       <package name="javax" withSubpackages="true" static="false" />
       <package name="java" withSubpackages="true" static="false" />
       <emptyLine />
-      <package name="" withSubpackages="true" static="true" />
+      <package name="" withSubpackages="true" static="false" />
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="100" />
