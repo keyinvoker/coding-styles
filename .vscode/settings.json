@@ -41,7 +41,25 @@
     "terminal.integrated.fontFamily": "MesloLGS NF",
     "terminal.integrated.fontSize": 13,
 
-    "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit",
+        "source.organizeImports": "explicit",
+    },
+    "eslint.probe": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+    ],
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "eslint.useFlatConfig": true,
     "emmet.includeLanguages": {
         "blade": "html",
         "javascript": "javascriptreact"
@@ -51,5 +69,5 @@
         "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
     },
     "intelephense.environment.phpVersion": "8.2",
-    "intelephense.files.maxSize": 5000000
+    "intelephense.files.maxSize": 5000000,
 }
