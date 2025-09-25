@@ -224,7 +224,7 @@
       <value>
         <option name="FOREGROUND" value="47a2ed" />
         <option name="EFFECT_COLOR" value="589df6" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="DART_CONSTRUCTOR">
@@ -320,7 +320,7 @@
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="3d8f7f" />
+        <option name="FOREGROUND" value="47ccb1" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -414,6 +414,11 @@
         <option name="FOREGROUND" value="47a2ed" />
         <option name="EFFECT_COLOR" value="8cd7ff" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GIT_TOOLBOX.EDITOR_INLINE_BLAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="48484e" />
       </value>
     </option>
     <option name="GO_BLOCK_COMMENT">
@@ -665,6 +670,12 @@
         <option name="FOREGROUND" value="cc85c6" />
       </value>
     </option>
+    <option name="JS.STATIC_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.STATIC_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="ffc66d" />
@@ -708,6 +719,11 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="KOTLIN_LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
       </value>
