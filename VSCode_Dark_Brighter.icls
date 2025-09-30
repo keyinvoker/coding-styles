@@ -14,6 +14,9 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="F78C6C" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="F78C6C" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="F78C6C" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72A038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="C3E887" />
     <option name="FILESTATUS_MERGED" value="82AAFF" />
     <option name="FILESTATUS_MODIFIED" value="80CBC4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80CBC4" />
@@ -172,6 +175,16 @@
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="c7c400" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="47ccb1" />
+      </value>
+    </option>
+    <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="47ccb1" />
       </value>
     </option>
     <option name="CSS.ATTRIBUTE_NAME">
