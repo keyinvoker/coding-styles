@@ -3,19 +3,19 @@
   <option name="RIGHT_MARGIN" value="100" />
   <option name="WRAP_LONG_LINES" value="true" />
   <option name="SOFT_MARGINS" value="100" />
+
   <JavaCodeStyleSettings>
     <option name="ANNOTATION_PARAMETER_WRAP" value="5" />
     <option name="ENUM_FIELD_ANNOTATION_WRAP" value="5" />
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
     <option name="NEW_LINE_AFTER_LPAREN_IN_ANNOTATION" value="true" />
     <option name="RPAREN_ON_NEW_LINE_IN_ANNOTATION" value="true" />
-    <option name="PRESERVE_MODULE_IMPORTS" value="false" />
+
+    <option name="PRESERVE_MODULE_IMPORTS" value="true" />
     <option name="DELETE_UNUSED_MODULE_IMPORTS" value="true" />
-    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
-    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
-    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
-      <value />
-    </option>
+    <option name="INSERT_INNER_CLASS_IMPORTS" value="true" />
+
+    <!-- Import order -->
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
         <package name="" withSubpackages="true" static="true" />
@@ -23,20 +23,35 @@
         <package name="java" withSubpackages="true" static="false" />
         <package name="javax" withSubpackages="true" static="false" />
         <emptyLine />
+        <package name="org" withSubpackages="true" static="false" />
+        <package name="com" withSubpackages="true" static="false" />
+        <emptyLine />
         <package name="" withSubpackages="true" static="false" />
       </value>
     </option>
+
+    <!-- Static imports order -->
+    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+      <value />
+    </option>
+
+    <!-- No wildcard imports -->
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+
     <option name="RECORD_COMPONENTS_WRAP" value="5" />
     <option name="ALIGN_MULTILINE_RECORDS" value="false" />
     <option name="NEW_LINE_AFTER_LPAREN_IN_RECORD_HEADER" value="true" />
     <option name="RPAREN_ON_NEW_LINE_IN_RECORD_HEADER" value="true" />
   </JavaCodeStyleSettings>
+
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="100" />
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="LINE_COMMENT_ADD_SPACE_ON_REFORMAT" value="true" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
@@ -81,6 +96,7 @@
     <option name="VARIABLE_ANNOTATION_WRAP" value="5" />
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
     <option name="WRAP_ON_TYPING" value="0" />
+    <option name="SOFT_MARGINS" value="100" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
