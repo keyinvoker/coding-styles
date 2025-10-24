@@ -28,24 +28,14 @@
         <package name="org" withSubpackages="true" static="false" />
         <emptyLine />
         <package name="com.astrapay.starter" withSubpackages="true" static="false" />
+        <emptyLine />
         <package name="com.astrapay" withSubpackages="true" static="false" />
+        <emptyLine />
         <package name="com" withSubpackages="true" static="false" />
         <emptyLine />
         <package name="" withSubpackages="true" static="false" module="true" />
         <emptyLine />
         <package name="" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="java" withSubpackages="true" static="true" />
-        <emptyLine />
-        <package name="javax" withSubpackages="true" static="true" />
-        <package name="jakarta" withSubpackages="true" static="true" />
-        <emptyLine />
-        <package name="net" withSubpackages="true" static="true" />
-        <package name="org" withSubpackages="true" static="true" />
-        <emptyLine />
-        <package name="com.astrapay.starter" withSubpackages="true" static="true" />
-        <package name="com.astrapay" withSubpackages="true" static="true" />
-        <package name="com" withSubpackages="true" static="true" />
         <emptyLine />
         <package name="" withSubpackages="true" static="true" />
       </value>
