@@ -1,0 +1,98 @@
+<code_scheme name="PSR12+" version="173">
+  <JSCodeStyleSettings version="0">
+    <option name="USE_EXPLICIT_JS_EXTENSION" value="NEVER" />
+  </JSCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+    <option name="ANONYMOUS_BRACE_STYLE" value="2" />
+    <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
+    <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="1" />
+    <option name="FORCE_EMPTY_METHODS_IN_ONE_LINE" value="true" />
+    <option name="FORCE_EMPTY_CLASSES_IN_ONE_LINE" value="true" />
+  </PHPCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="RIGHT_MARGIN" value="120" />
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
+    <option name="WHILE_ON_NEW_LINE" value="true" />
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <option name="CALL_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_PARAMETERS_WRAP" value="5" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="1" />
+    <option name="SOFT_MARGINS" value="120" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="8" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP_DOC">
+    <option name="ALIGN_TAGS" value="true" />
+    <option name="ALIGN_PARAMETER_NAMES" value="true" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="RIGHT_MARGIN" value="100" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+    <option name="CALL_PARAMETERS_WRAP" value="2" />
+    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_WRAP" value="2" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
+    <option name="EXTENDS_LIST_WRAP" value="1" />
+    <option name="EXTENDS_KEYWORD_WRAP" value="1" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
+    <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="2" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="false" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="false" />
+    <option name="OBJECT_LITERAL_WRAP" value="2" />
+    <option name="SOFT_MARGINS" value="100" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="false" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <option name="RIGHT_MARGIN" value="100" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="SOFT_MARGINS" value="100" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="false" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="CSS">
+    <option name="RIGHT_MARGIN" value="100" />
+    <option name="SOFT_MARGINS" value="100" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+      <option name="USE_TAB_CHARACTER" value="false" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
