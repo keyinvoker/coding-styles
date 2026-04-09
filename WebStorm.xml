@@ -1,16 +1,13 @@
 <code_scheme name="PSR12+" version="173">
   <Angular2HtmlCodeStyleSettings>
     <option name="INTERPOLATION_WRAP" value="5" />
-    <option name="INTERPOLATION_NEW_LINE_AFTER_START_DELIMITER" value="false" />
-    <option name="INTERPOLATION_NEW_LINE_BEFORE_END_DELIMITER" value="false" />
   </Angular2HtmlCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="4" />
     <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
     <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,code,textarea" />
-    <option name="HTML_INLINE_ELEMENTS"
-      value="a,abbr,acronym,bdi,bdo,big,br,button,cite,code,dfn,img,input,kbd,map,mark,q,s,samp,select,sub,sup,time,tt,u,var,wbr" />
+    <option name="HTML_INLINE_ELEMENTS" value="a,abbr,acronym,bdi,bdo,big,br,button,cite,code,dfn,img,input,kbd,map,mark,q,s,samp,select,sub,sup,time,tt,u,var,wbr" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
     <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
     <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
@@ -64,16 +61,17 @@
     <option name="RIGHT_MARGIN" value="100" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
-    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="false" />
+    <option name="PREFER_PARAMETERS_WRAP" value="true" />
+    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
-    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="false" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="EXTENDS_LIST_WRAP" value="5" />
     <option name="EXTENDS_KEYWORD_WRAP" value="1" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <option name="BINARY_OPERATION_WRAP" value="5" />
-    <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="false" />
+    <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
@@ -131,21 +129,21 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
-    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="false" />
+    <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
-    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="false" />
+    <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
-    <option name="EXTENDS_LIST_WRAP" value="5" />
+    <option name="EXTENDS_LIST_WRAP" value="1" />
     <option name="EXTENDS_KEYWORD_WRAP" value="1" />
-    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <option name="BINARY_OPERATION_WRAP" value="5" />
     <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="TERNARY_OPERATION_SIGNS_ON_NEXT_LINE" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_WRAP" value="5" />
-    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="false" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
     <option name="ASSIGNMENT_WRAP" value="5" />
     <option name="WRAP_COMMENTS" value="true" />
