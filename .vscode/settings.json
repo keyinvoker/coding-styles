@@ -70,4 +70,5 @@
     },
     "intelephense.environment.phpVersion": "8.2",
     "intelephense.files.maxSize": 5000000,
+    "xml.downloadExternalResources.enabled": true,
 }
