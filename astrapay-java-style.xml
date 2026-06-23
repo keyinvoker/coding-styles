@@ -49,6 +49,18 @@
     <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
     <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
   </JavaCodeStyleSettings>
+  <PHPCodeStyleSettings>
+    <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
+    <option name="COMMA_AFTER_LAST_PARAMETER" value="true" />
+    <option name="COMMA_AFTER_LAST_CLOSURE_USE_VAR" value="true" />
+    <option name="COMMA_AFTER_LAST_ARGUMENT" value="true" />
+    <option name="COMMA_AFTER_LAST_MATCH_ARM" value="true" />
+    <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
+    <option name="LOWER_CASE_NULL_CONST" value="true" />
+    <option name="ELSE_IF_STYLE" value="SEPARATE" />
+    <option name="VARIABLE_NAMING_STYLE" value="CAMEL_CASE" />
+    <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
+  </PHPCodeStyleSettings>
   <SqlCodeStyleSettings version="7">
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="3" />
@@ -138,6 +150,8 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
   </codeStyleSettings>
 </code_scheme>

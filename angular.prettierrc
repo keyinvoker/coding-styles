@@ -1,0 +1,33 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "semi": true,
+  "printWidth": 100,
+  "tabWidth": 2,
+  "useTabs": false,
+  "bracketSpacing": true,
+  "arrowParens": "always",
+  "htmlWhitespaceSensitivity": "css",
+  "singleAttributePerLine": false,
+  "plugins": [
+    "prettier-plugin-organize-imports"
+  ],
+  "overrides": [
+    {
+      "files": "**/*.yml",
+      "options": {
+        "tabWidth": 2
+      }
+    },
+    {
+      "files": [
+        "**/*.ts",
+        "**/*.html"
+      ],
+      "options": {
+        "singleQuote": true
+      }
+    }
+  ]
+}
+
